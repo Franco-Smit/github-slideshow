@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+SAFE MOON TO THE MOON !
 Use the left arrow to go back!
